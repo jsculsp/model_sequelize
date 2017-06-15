@@ -5,6 +5,7 @@
   "author": "linmu",
   "license": "MIT",
   "dependencies": {
+    "assert": "^1.4.1",
     "babel-core": "^6.25.0",
     "koa": "next",
     "koa-bodyparser": "3.2.0",
